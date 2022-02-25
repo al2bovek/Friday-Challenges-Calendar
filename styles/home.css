@@ -1,0 +1,151 @@
+.vardas {
+position: absolute;
+width: 341px;
+height: 80px;
+left: 206px;
+top: 89px;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #000000;
+
+}
+.databox {
+position: absolute;
+width: 516px;
+height: 147px;
+left: 857px;
+top: 56px;
+
+background: #FFFFFF;
+border-radius: 25px;
+}
+.data {
+position: absolute;
+width: 323.98px;
+height: 102.9px;
+left: 953px;
+top: 100px;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+color: #02577A;
+
+
+}
+
+    
+
+
+.fieldimg2x {
+width:1440px;
+height: 431px;
+margin-top: 233px;
+    
+}
+.sloganbox {
+position: absolute;
+width: 898px;
+height: 121px;
+left: 271px;
+top: 707px;
+
+border: 2px solid #02577A;
+box-sizing: border-box;
+border-radius: 25px;
+}
+.slogan {
+position: absolute;
+width: 528.89px;
+height: 23px;
+left: 456px;
+top: 756px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #000000;
+}
+
+
+@media (max-width: 600px){
+    .field {
+    margin: 0;
+    width: 590px;
+    height: 906px;
+    background-color: #f1f5f8;
+        
+       }
+
+.vardas {
+position: absolute;
+width: 341px;
+height: 80px;
+left: 141px;
+top: 224px;
+font-style: normal;
+font-weight: 500;
+font-size: 29px;
+line-height: 35px;
+color: #000000;
+
+}
+.databox {
+position: absolute;
+width: 310px;
+height: 147px;
+left: 125px;
+top: 44px;
+
+background: #FFFFFF;
+border-radius: 25px;
+}
+.data {
+position: absolute;
+width: 310px;
+height: 102.9px;
+left: 145px;
+top: 55px;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+color: #02577A;
+
+
+}
+.fieldimg2x {
+position: absolute;
+width: 360px;
+height: 266px;
+left: 100px;
+top: 90px;
+
+    
+}
+.sloganbox {
+position: absolute;
+width: 310px;
+height: 121px;
+left: 125px;
+top: 626px;
+border: 2px solid #02577A;
+box-sizing: border-box;
+border-radius: 25px;
+}
+.slogan {
+position: absolute;
+width: 202px;
+height: 41px;
+left: 180px;
+top: 660px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #000000;
+}
+}
